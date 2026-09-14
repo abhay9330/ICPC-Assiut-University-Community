@@ -1,0 +1,26 @@
+//Given a mathematical expression. The expression will be one of the following expressions:
+//A + B = C, A - B = C and A * B = C
+//where A, B, C are three numbers, S is the sign between A and B, and Q the '=' sign
+//Print "Yes" If the expression is Right , Otherwise print the right answer of the expression.
+#include <stdio.h>
+
+int main() {
+    int A, B, C, ans;
+    char S, Q;
+
+    scanf("%d %c %d %c %d", &A, &S, &B, &Q, &C);
+
+    if (S == '+')
+        ans = A + B;
+    else if (S == '-')
+        ans = A - B;
+    else
+        ans = A * B;
+
+    if (ans == C)
+        printf("Yes");
+    else
+        printf("%d", ans);
+
+
+}
