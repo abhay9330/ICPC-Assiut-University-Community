@@ -1,6 +1,6 @@
-# ICPC Assiut University Community — Sheet 1 & Contest 1 Solutions
+# ICPC Assiut University Community — Sheets Solutions
 
-A structured repository containing my solutions to the problems from **Sheet 1** and **Contest 1** of the **ICPC Assiut University Community Training** on Codeforces.
+A structured repository containing my solutions to the problems from the **ICPC Assiut University Community Training Sheets** on Codeforces.
 
 This repository is part of my competitive programming journey, where I am focusing on building strong programming fundamentals, improving logical thinking, and developing consistent problem-solving skills.
 
@@ -8,15 +8,19 @@ This repository is part of my competitive programming journey, where I am focusi
 
 ## 📌 About
 
-This repository contains my solutions for **CDF Sheet 1** and **Contest 1**.
+This repository contains my solutions for the **ICPC Assiut University Community Training Sheets**.
 
-The problems in these sections mainly focus on basic programming concepts and help in developing a strong foundation before moving to more advanced competitive programming topics.
+The sheets are organized topic-wise, starting from basic programming concepts and gradually moving towards more advanced topics such as loops, arrays, strings, functions, mathematics, recursion, and problem-solving.
 
 I am solving these problems step by step and uploading my solutions here to track my progress and keep my learning organized.
 
 ---
 
-## 📚 Sheet 1 Topics
+## 📚 Training Sheets
+
+### 🟢 Sheet 1 — Data Types & Conditions
+
+Topics covered:
 
 * Data Types
 * Input & Output
@@ -28,26 +32,88 @@ I am solving these problems step by step and uploading my solutions here to trac
 * Character Handling
 * ASCII Values
 * Basic Problem Solving
-* Simple Mathematical Problems
-* Basic Logical Thinking
 
----
+### 🔵 Sheet 2 — Loops
 
-## 🏆 Contest 1
+Topics covered:
 
-Contest 1 contains problems from **A to I**, covering basic programming, mathematical calculations, conditions, and logical problem-solving.
+* `for` loop
+* `while` loop
+* `do-while` loop
+* Repetition
+* Counting
+* Mathematical Patterns
+* Loop-based Problem Solving
 
-### Problems
+### 🟣 Sheet 3 — Arrays
 
-* Problem A
-* Problem B
-* Problem C
-* Problem D
-* Problem E
-* Problem F
-* Problem G
-* Problem H
-* Problem I
+Topics covered:
+
+* One-Dimensional Arrays
+* Array Input & Output
+* Searching
+* Sorting
+* Array Operations
+* Frequency and Counting
+* Array-based Problem Solving
+
+### 🟠 Sheet 4 — Strings
+
+Topics covered:
+
+* Character Arrays
+* String Input & Output
+* String Functions
+* String Comparison
+* String Manipulation
+* Character Handling
+* String-based Problem Solving
+
+### 🔴 Sheet 5 — Functions
+
+Topics covered:
+
+* Functions
+* Function Parameters
+* Return Values
+* Function Calls
+* Passing Arguments
+* Modular Programming
+* Problem Solving Using Functions
+
+### 🟡 Sheet 6 — Math & Geometry
+
+Topics covered:
+
+* Mathematical Operations
+* Geometry
+* Areas and Perimeters
+* Distances
+* Angles
+* Coordinates
+* Mathematical Problem Solving
+
+### 🟤 Sheet 7 — Recursion
+
+Topics covered:
+
+* Recursion
+* Base Cases
+* Recursive Calls
+* Mathematical Recursion
+* Recursive Problem Solving
+
+### ⚪ Sheet 8 — General Easy
+
+This sheet focuses on applying previously learned concepts to a variety of easy-level competitive programming problems.
+
+### 🔷 Sheet 9 — General Medium
+
+This sheet contains medium-level problems that require stronger logical thinking and application of multiple programming concepts.
+
+### 🔶 Sheet 10 — General Hard
+
+This sheet focuses on harder problems that require deeper problem-solving skills, optimization, and combining multiple concepts.
 
 ---
 
@@ -56,26 +122,77 @@ Contest 1 contains problems from **A to I**, covering basic programming, mathema
 ```text
 ICPC-Assiut-University-Community/
 │
-├── 📁 CDF SHEET 1/
+├── 📁 Sheet 1 - Data Types & Conditions/
 │   ├── a.c
 │   ├── b.c
 │   ├── c.c
 │   ├── d.c
 │   ├── e.c
-│   ├── f.c
-│   ├── g.c
 │   └── ...
 │
-├── 📁 Contest 1/
+├── 📁 Sheet 2 - Loops/
 │   ├── a.c
 │   ├── b.c
 │   ├── c.c
-│   ├── d.c
-│   ├── e.c
-│   ├── f.c
-│   ├── g.c
-│   ├── h.c
-│   └── i.c
+│   └── ...
+│
+├── 📁 Sheet 3 - Arrays/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
+│
+├── 📁 Sheet 4 - Strings/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
+│
+├── 📁 Sheet 5 - Functions/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
+│
+├── 📁 Sheet 6 - Math & Geometry/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
+│
+├── 📁 Sheet 7 - Recursion/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
+│
+├── 📁 Sheet 8 - General Easy/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
+│
+├── 📁 Sheet 9 - General Medium/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
+│
+├── 📁 Sheet 10 - General Hard/
+│   ├── a.c
+│   ├── b.c
+│   └── ...
 │
 └── README.md
 ```
+
+---
+
+## 🚀 Learning Path
+
+The sheets follow a progressive learning structure:
+
+**Data Types & Conditions → Loops → Arrays → Strings → Functions → Math & Geometry → Recursion → General Easy → General Medium → General Hard**
+
+Each sheet builds on the concepts learned in the previous one and helps improve programming fundamentals, logical thinking, and competitive programming skills.
+
+---
+
+## 🎯 Goal
+
+My goal is to solve these problems consistently, understand the concepts behind every solution, and gradually build a strong foundation in **C programming and Competitive Programming**.
+
+> **Learn → Practice → Solve → Improve → Repeat.** 🚀
