@@ -1,21 +1,12 @@
-
 #include <iostream>
 using namespace std;
 int main() {
-    int N, A, B;
-    cin >> N >> A >> B;
-    int sum = 0;
+    int N;
+    cin >> N;
+    int num = 1;
     for (int i = 1; i <= N; i++) {
-        int num = i;
-        int digitSum = 0;
-        while (num > 0) {
-            digitSum = digitSum + (num % 10);
-            num = num / 10;
-        }
-        if (digitSum >= A && digitSum <= B) {
-            sum = sum + i;
-         }
-        }
-    cout << sum << endl;
- 
+        cout << num << " " << num + 1 << " " << num + 2 << " PUM" << endl;
+        num=num+ 4;
+    }
+    return 0;
 }
